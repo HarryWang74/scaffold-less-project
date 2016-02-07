@@ -1,0 +1,24 @@
+{
+  "name": "scaffold-less-project",
+  "homepage": "https://github.com/HarryWang74/scaffold-less-project",
+  "authors": [
+    "harry <harry74323@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.0"
+  }
+}
